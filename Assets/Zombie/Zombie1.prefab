@@ -298,8 +298,8 @@ MonoBehaviour:
   agent: {fileID: 4364364971621158580}
   player: {fileID: 0}
   animator: {fileID: 4933053126693966361}
-  speedWalking: 1.5
-  speedRunning: 4
+  speedWalking: 1.7
+  speedRunning: 5.5
   speedAttacking: 1.2
   walkDuration: 5
   attackRange: 2
@@ -318,6 +318,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 100
+  isBoss: 0
 --- !u!136 &2767881578762033175
 CapsuleCollider:
   m_ObjectHideFlags: 0
